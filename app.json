@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "minecraft-rcon",
-    "slug": "minecraft-rcon",
+    "name": "template_nativewind_pj",
+    "slug": "template_nativewind_pj",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
